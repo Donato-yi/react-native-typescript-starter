@@ -1,16 +1,6 @@
-**React Native Typescript Starter Kit**
+# Development Tooling
 
----
-
-## Introduction
-
-- Library/Language: **React Native** - **Typescript**
-- App state Mangement: **Redux**; middleware: **saga**
-- Test: Jest
-
----
-
-## Scripts
+## NPM Scripts
 
 - `compile`: `tsc --noEmit -p .`,
 - `precommit`: `lint-staged`,
@@ -23,3 +13,12 @@
 - `lint:ts`: `tslint -p tsconfig.json`,
 - `start`: `node node_modules/react-native/local-cli/cli.js start`,
 - `test`: `jest`
+
+Active Development:
+
+
+Unit Testing:
+
+
+End-to-End Testing:
+
